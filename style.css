@@ -1,0 +1,41 @@
+body {
+    background-color: #cabfb6;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div.main {
+    background-color: white;
+    width: 600px;
+    padding: 60px 100px 0px;
+    margin: auto;
+    letter-spacing: 0.3px;
+}
+
+div.one {
+    text-align: center;
+}
+
+button {
+    padding: 7px 40px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+.Android {
+    background-color: #a4c93b;
+}
+
+.Apple {
+    background-color: #b6bcca;
+    margin-bottom: 70px;
+}
+
+button.Debate {
+    background-color: #c9793b;
+    margin-bottom: 20px;
+    padding: 20px 30px;
+}
+
+h2 {
+    font-family: 'Proza Libre', sans-serif;
+}
